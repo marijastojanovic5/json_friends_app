@@ -1,0 +1,39 @@
+{
+  "friends": [
+    {
+      "name": "Ross Geller",
+      "age": "30",
+      "image": "https://evoke.ie/wp-content/uploads/2018/04/Ross-Friends-696x503.jpg",
+      "likes": 8,
+      "id": 1
+    },
+    {
+      "name": "Chandler Bing",
+      "age": "28",
+      "image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/8/19/original/2ChandlerBing.JPG",
+      "likes": 13,
+      "id": 3
+    },
+    {
+      "name": "Monica Geller",
+      "age": "30",
+      "image": "https://cdn.pinkvilla.com/files/styles/contentpreview/public/monica_geller_1.jpg",
+      "likes": 8,
+      "id": 4
+    },
+    {
+      "name": "Joy Tribbiani",
+      "age": "29",
+      "image": "https://i.ytimg.com/vi/wR6xCtxM308/maxresdefault.jpg",
+      "likes": 9,
+      "id": 5
+    },
+    {
+      "name": "Phoeby Buffay",
+      "age": "32",
+      "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/09/Friends-Phoebe-Buffay-1.jpg",
+      "likes": 9,
+      "id": 6
+    }
+  ]
+}
